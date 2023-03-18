@@ -2,7 +2,7 @@ import random as rd
 
 def with_absent_num():
     try:
-        size = int(input("\nThe total number of objects: "))
+        size = int(input("\ntotal number of objects: "))
         group_member = int(input("Number of objects/group: "))
 
         if(group_member > size):
