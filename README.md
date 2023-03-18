@@ -1,5 +1,5 @@
 # Grouping App 👨‍👩‍👧‍👦
-This app allows you to organize things into groups. It only takes the total number of objects and it'll return groups with members based on the number of object
+This app allows you to organize things into groups.
 
 # How to use?
 1. Go to my replit: [grouping-application](https://replit.com/@hng011/GroupingApp?v=1) 
